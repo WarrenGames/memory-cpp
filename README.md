@@ -16,9 +16,6 @@ AppDir (The directory of your choice)
 |-fonts
 |-textures
 |game or game.exe (the file to run in order to play the game).
-<<<<<<< HEAD
-=======
 
 ![main menu](/assets/mainMenuScreenShot.png)
 ![game with POVRay theme](/assets/povrayThemeGame1.png)
->>>>>>> 9a4a1d5 (Game screenshots add)
