@@ -11,11 +11,11 @@ Download the sources, unzip it in a directory of your choice, then in the main d
 Then go to the build directory that follows the '-B' argument with cd ../build and run 'make all'
 Choose a directory that will be the one of this game (named 'AppDir' next to make things simple). Copy the built executable ('game' or 'game.exe') in AppDir. Then download originalMemory++UnixFiles.tar.gz if you need LineFeed endlines (if you use an unixoid operating system for example) or download originalMemory++WindowsFiles.7z that contains CRLF endlines (for windows of course). Extract the selected archive in AppDir. Eventually you should have the following arborescence:
 
-AppDir (The directory of your choice)
-|-data (CRLF or LF endlines files)
-|-fonts
-|-textures
-|game or game.exe (the file to run in order to play the game).
+AppDir (The directory of your choice), and inside:
+subdirectory: data (CRLF or LF endlines files)
+subdirectory: fonts
+subdirectory: textures
+file: game or game.exe (the file to run in order to play the game).
 
 ![main menu](/assets/mainMenuScreenShot.png)
 ![game with POVRay theme](/assets/povrayThemeGame1.png)
