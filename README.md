@@ -1,4 +1,4 @@
-A memory game in which you must find several pair/even cards with several themes choice.
+A memory game in which you must find several pair/even cards with several themes choices.
 
 This is the first release of memory++ game, a memory game with pair cards to pick. If you just want to play the game, you can download the following file: "Memory++_x86_64_binaries.7z" , then unzip it in a directory of your choice and run game.exe
 
